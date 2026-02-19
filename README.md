@@ -1,4 +1,4 @@
-# Marketing Presentation Builder API
+# PowerPoint Presentation Builder API
 
 A .NET 9.0 ASP.NET Core API for building and managing marketing presentations. This API provides endpoints for:
 
